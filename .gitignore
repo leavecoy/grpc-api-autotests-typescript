@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# JetBrains
+.idea/
+
+# TypeScript build
+dist/
+*.tsbuildinfo
+
+# Tests
+coverage/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
